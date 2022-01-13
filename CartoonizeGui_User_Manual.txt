@@ -1,0 +1,34 @@
+----CARTOONIZING IMAGE GUI----
+----USER GUIDE----13/01/2022
+
+1) Loading image;
+	- by attaching image from your computer
+	- by using webcam
+2) Cartoonizing image parameters;
+You can cartoonize your image by clicking "Cartoonize" button.
+There are some parameters to able to get better cartoonized image;
+	-Dither;
+		If you enable dither, neighborhood pixels will approximate
+		original color tones.
+	-Edge type selection;
+		You can select a type of edges on your image.
+	- Number of colors;
+		You can reduce number of color tones by minimum variance 
+		quantization.
+	- Dos(Degree of Smoothing);
+		By increasing this value, you can get smoother image.
+	- Sigma;
+		By increasing this value, you can increase contribution of 
+		neighborhood pixels.
+	-Row & Column;
+		By changing value of them, you can get thicker edges.
+3)Edit;
+	After cartoonize an image, you can remove unnecessary/undesired edges 
+	from cartoonized image by clicking "Edit" button and after that right 
+	clicking and selecting crop.
+4)Clear;
+	Clears the second window.
+5)Save;
+	You can save cartoonized image by clicking "Save" button.
+6)Exit;
+	By clicking "Exit" button, GUI window is closed.
