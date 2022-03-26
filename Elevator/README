@@ -1,0 +1,6 @@
+The aim of this project is to design an elevator system that works with a stepper motor and 
+to provide floor access control of this elevator with matlab GUI. In addition, it is the 
+examination of this height change in a time / displacement graph with the distance sensor
+when passing between floors. While the project aims to consolidate our matlab knowledge, 
+it also aims to learn stepper motor control with arduino or any controller.
+
